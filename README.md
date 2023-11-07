@@ -1,1 +1,3 @@
-# Belajar-Git-Hub
+1. Belajar-Git-Hub
+2. Bikin akun
+3. Bismillah bisa
